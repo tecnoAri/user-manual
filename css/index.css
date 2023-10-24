@@ -1,0 +1,67 @@
+/*.imageN{
+    width: 20%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}*/
+.imgAGen{
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.custom-h1{
+    font-size: 50px;
+    font-family: 'Onest', sans-serif;
+    color: #000000; /* Azul */
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.custom-p{
+    font-size: 30px;
+    font-family: 'Work Sans', sans-serif;
+    color: #000000; /* Azul */
+    margin: 20px;
+}
+.Subtitulo{
+    font-size: 28px;
+    font-family: 'Onest', sans-serif;
+    color: #000000; /* Azul */
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.Subparrafo{
+    font-size: 27px;
+    font-family: 'Work Sans', sans-serif;
+    color: #000000; /* Azul */
+    margin-left: 60px;
+}
+
+.Alineacion{
+    display: inline-block;
+    margin-right: 32px;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.menuMaual{
+    width: 18%;
+    background-color: rgba(127, 172, 255, 0.7);
+}
+
+
+
+.fuenteA{
+    font-family: 'Mohave', sans-serif;
+    font-size: 25px;
+    color: #000000;
+}
+
+.fondoPrincipal{
+    background-color:  rgb(187, 187, 224);
+}
+
+.fondoSecundario{
+    background-color: rgb(204, 209, 255);
+
+}
